@@ -10,8 +10,8 @@
 
 # Backend
 
-1.  Setup a GraphQL Server Using TypeGraphQL and TypeORM - In progress
-2.  Register a user - To Do
+1.  Setup a GraphQL Server Using TypeGraphQL and TypeORM - Done
+2.  Register a user - In Progress
 3.  Login and Create access and refresh tokens - To Do
 4.  Authenticated mutations/queries - To Do
 5.  Refresh the token - To Do
